@@ -3,5 +3,5 @@ const cardSchema=mongoose.Schema({
     name:String,
     imgUrl:String
 })
-//salik updated
+//salik updated again
 export default mongoose.model('cards',cardSchema);
