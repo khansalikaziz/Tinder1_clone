@@ -1,6 +1,7 @@
 ﻿# Tinder_clone
-   Tinder Clone Using React
- ﻿# Website Link
+ <h2>Tinder Clone Using React</h2><br/>
+  
+ <h2>Website Link</h2>
   https://peppy-biscotti-dcb3c2.netlify.app/
 ﻿# Output
 ![tinder1](https://user-images.githubusercontent.com/76683360/173511761-22e3cc33-3ba5-427f-8271-6141f0f799d8.jpg)
